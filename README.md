@@ -1,5 +1,4 @@
-# 👋 Hello and welcome to my GitHub! 
-# My name is Nicolas Miranda Cantanhede.
+# 👋 Hello and welcome to my GitHub! My name is Nicolas Cantanhede
 
 🎓 **CS Specialist & Economics Major @ University of Toronto (HBSc)** • **GPA: 4.0/4.0**  
 💻 **Python & Java** • 🌐 React/JavaScript (Web) • 📍 Toronto, ON  
