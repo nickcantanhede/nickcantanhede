@@ -40,5 +40,5 @@ I’m a first-year **Computer Science Specialist & Economics Major** at UofT, fo
 ---
 
 ## 🤝 Open to Opportunities
-📌 Looking for **part-time** opportunities in **software engineering, data, ML, or fintech** (Toronto/remote) through **May**.  
+📌 Looking for opportunities in **software engineering, data, ML, or fintech** (Toronto/remote) through **May**.  
 If you’re building something and need help shipping, feel free to reach out.
