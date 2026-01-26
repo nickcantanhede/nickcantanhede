@@ -4,7 +4,7 @@
 🔗 [LinkedIn](https://linkedin.com/in/nicolas-cantanhede) • ✉️ nicolasmcantanhede@gmail.com
 ---
 ## 🚀 About Me
-I'm a first-year **Computer Science Specialist & Economics Major** at UofT, focused on building practical software, learning fast, and shipping real work with teams.
+I’m a first-year **Computer Science Specialist & Economics Major** at UofT, focused on building practical software, learning fast, and shipping real work with teams.
 ---
 ## 🧩 Experience Highlights
 - 👨‍🏫 **Coding Teacher (UTG Academy)** — delivered **60+** Python/game-dev sessions; designed **3** major projects; provided **1:1 debugging** support for **20** students.  
@@ -24,7 +24,7 @@ I'm a first-year **Computer Science Specialist & Economics Major** at UofT, focu
 **Languages:** Python, Java, JavaScript, HTML/CSS  
 **Frameworks:** React, Flask  
 **Libraries/Tools:** NumPy, Matplotlib, pytest, pygame, pillow, plotly • VS Code, PyCharm
-
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />&nbsp;&nbsp;
@@ -37,8 +37,8 @@ I'm a first-year **Computer Science Specialist & Economics Major** at UofT, focu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
 </div>
-
+###
 ---
 ## 🤝 Open to Opportunities
 📌 Looking for opportunities in **software engineering, data, ML, or fintech** (Toronto/remote) 
-If you're building something and need help shipping, feel free to reach out.
+If you’re building something and need help shipping, feel free to reach out.
