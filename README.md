@@ -126,41 +126,6 @@ A modern, single-page portfolio showcasing my work and experience. Built with Re
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 💡 What I'm Up To
-
-**📍 Based in:** Toronto, ON 🇨🇦  
-**🎓 Studying:** Computer Science Specialist + Economics Major @ UofT  
-**🔭 Currently working on:** Full-stack web apps and educational tools  
-**🌱 Learning:** Advanced algorithms, React, and system design  
-**🎯 Looking for:** Software engineering internships, data/ML roles, fintech opportunities  
-**⚡ Fun fact:** I've taught 60+ Python sessions and helped build a company that made $3K in 4 months!
-
----
-
-<div align="center">
-
 ## 📫 Let's Connect
 
 I'm actively looking for **software engineering internships**, **data science roles**, and **fintech opportunities** in Toronto or remote.
