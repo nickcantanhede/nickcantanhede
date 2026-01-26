@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Nicolas Cantanhede
+# 👋 Hey, I'm Nicolas Miranda Cantanhede and welcome to my GitHub!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Specialist;Economics+Major+%40+UofT" alt="Typing SVG" />
 
@@ -22,12 +22,11 @@
 I'm a first-year **Computer Science Specialist & Economics Major** at the University of Toronto. I love building practical software that solves real problems, and I'm always looking for ways to learn faster and work smarter.
 
 Right now, I'm focused on:
+- 📚 Maintaining great academic standards
 - 🧠 Learning advanced algorithms and system design
 - 🌐 Building full-stack web applications
 - 📊 Exploring machine learning and data science
 - 💰 Understanding fintech and scalable systems
-
-When I'm not coding, you'll find me teaching Python to students, exploring Toronto, or working on side projects!
 
 ---
 
