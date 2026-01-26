@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Specialist;Economics+Major+%40+UofT" alt="Typing SVG" />
 
 ### 🎓 University of Toronto | **GPA: 4.0/4.0**
-📍 Toronto, ON | 💻 Building things that matter
+📍 Toronto, ON | 💻 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-cantanhede)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicolas.cantanhede)
