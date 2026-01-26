@@ -74,7 +74,7 @@ Clean, scannable portfolio showcasing projects and experience.
 
 🔍 **Looking for opportunities in:** Software Engineering, Data Science, ML, or Fintech (Toronto/Remote)
 
-If you're building something cool and need help shipping, let's talk!
+If you're building something cool and need help developing, let's talk!
 
 ---
 
