@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Nicolas Cantanhede
+# 👋 Hey, I'm Nicolas Miranda Cantanhede
 
 ### CS Specialist & Economics Major @ University of Toronto
 **GPA: 4.0/4.0** | 📍 Toronto, ON
