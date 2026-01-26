@@ -37,7 +37,7 @@ I’m a first-year **Computer Science Specialist & Economics Major** at UofT, fo
 **Frameworks:** React, Flask  
 **Libraries/Tools:** NumPy, Matplotlib, pytest, pygame, pillow, plotly • VS Code, PyCharm
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
