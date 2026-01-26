@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Nicolas Miranda Cantanhede
+# 👋 Hey, I'm Nicolas Cantanhede
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=CS+Specialist+%40+UofT;Economics+Major;Full-Stack+Developer;Python+%7C+Java+%7C+React" alt="Typing SVG" />
 
@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-cantanhede)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicolas.cantanhede)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmcantanhede@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
 
@@ -25,7 +26,7 @@
 ```
 🎯 Mission: Build practical software that solves real problems
 📚 Currently: Learning advanced algorithms & system design
-🔭 Working on: AI-powered course management system for UofT
+🔭 Working on: Full-stack web applications & educational tools
 🌱 Exploring: Machine learning, fintech, and scalable systems
 💡 Interests: EdTech, automation, data visualization
 ⚡ Fun fact: Taught 60+ Python sessions and helped students build games!
@@ -135,22 +136,6 @@
 
 </details>
 
-<details>
-<summary><b>🎓 Student Decision Engine</b> - AI-powered UofT course planner</summary>
-
-<br>
-
-**Tech Stack:** `Python` `PostgreSQL` `Streamlit` `UofT API` `SQLAlchemy`
-
-- 🔍 Browse 8,000+ UofT courses with real-time data
-- 📅 Visual timetable builder with conflict detection
-- 🤖 AI syllabus parser extracting deadlines from PDFs
-- 📊 Grade calculator & "busy week" detection
-
-**Status:** 🚧 Phase 1 complete (course catalog & timetable)
-
-</details>
-
 ---
 
 <div align="center">
@@ -166,23 +151,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🎨 Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🗄️ Databases & Backend
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🧰 Tools & Platforms
 
@@ -239,8 +215,8 @@ const nicolas = {
     location: "Toronto, ON 🇨🇦",
     education: "University of Toronto (CS Specialist + Econ Major)",
     current_focus: ["System Design", "Machine Learning", "Full-Stack Dev"],
-    currently_building: "AI-powered course management for UofT students",
-    learning: ["Advanced Algorithms", "React Hooks", "PostgreSQL Optimization"],
+    currently_building: "Web applications & educational tools",
+    learning: ["Advanced Algorithms", "React Hooks", "Data Structures"],
     hobbies: ["Teaching Code", "Building Side Projects", "Exploring Toronto"],
     open_to: ["SWE Internships", "Data/ML Roles", "Fintech Opportunities"],
     fun_fact: "I've taught 60+ Python sessions and helped build a $3K company! 🚀"
