@@ -17,8 +17,6 @@
 
 ## 🚀 About Me
 
-I'm a first-year **Computer Science Specialist & Economics Major** at the University of Toronto. I love building practical software that solves real problems, and I'm always looking for ways to learn faster and work smarter.
-
 Right now, I'm focused on:
 - 📚 Maintaining great academic standards
 - 🧠 Learning advanced algorithms and system design
