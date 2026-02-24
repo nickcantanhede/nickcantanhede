@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hey, I'm Nicolas Cantanhede and welcome to my GitHub!
+# Hey, I'm Nicolas Cantanhede — welcome to my GitHub!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Specialist;Economics+Major+%40+UofT" alt="Typing SVG" />
 
-### 🎓 University of Toronto | **GPA: 4.0/4.0**
-📍 Toronto, ON | 💻 
+### <img src="https://img.icons8.com/ios/20/000000/graduation-cap.png" alt="graduation cap" width="20"/> University of Toronto | **GPA: 4.0/4.0**
+<img src="https://img.icons8.com/ios/16/000000/marker.png" alt="location" width="16"/> Toronto, ON &nbsp;|&nbsp; <img src="https://img.icons8.com/ios/16/000000/laptop.png" alt="laptop" width="16"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-cantanhede)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicolas.cantanhede)
@@ -15,24 +15,25 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://img.icons8.com/ios/24/000000/launch.png" alt="rocket" width="22"/> About Me
 
 Right now, I'm focused on:
-- 📚 Maintaining great academic standards
-- 🧠 Learning advanced algorithms and system design
-- 🌐 Building full-stack web applications
-- 📊 Exploring machine learning and data science
-- 💰 Understanding fintech and scalable systems
+
+- <img src="https://img.icons8.com/ios/18/000000/books.png" alt="books" width="16"/> Maintaining great academic standards
+- <img src="https://img.icons8.com/ios/18/000000/brain.png" alt="brain" width="16"/> Learning advanced algorithms and system design
+- <img src="https://img.icons8.com/ios/18/000000/globe.png" alt="globe" width="16"/> Building full-stack web applications
+- <img src="https://img.icons8.com/ios/18/000000/combo-chart.png" alt="chart" width="16"/> Exploring machine learning and data science
+- <img src="https://img.icons8.com/ios/18/000000/coins.png" alt="coins" width="16"/> Understanding fintech and scalable systems
 
 ---
 
 <div align="center">
 
-## 💼 Experience
+## <img src="https://img.icons8.com/ios/24/000000/briefcase.png" alt="briefcase" width="22"/> Experience
 
 </div>
 
-### 👨‍🏫 Coding Teacher | UTG Academy
+### <img src="https://img.icons8.com/ios/20/000000/chalkboard-teacher.png" alt="teacher" width="18"/> Coding Teacher | UTG Academy
 *Teaching Python and game development to students*
 
 - Delivered **60+ interactive Python sessions** covering game development, OOP, and problem-solving
@@ -40,7 +41,7 @@ Right now, I'm focused on:
 - Provided **1-on-1 debugging support** for over **20 students**, helping them build confidence in coding
 - Taught core concepts: state management, collision detection, game loops, and object-oriented programming
 
-### 🏥 IT & Operations Assistant | MAIOR Health Clinic
+### <img src="https://img.icons8.com/ios/20/000000/hospital.png" alt="hospital" width="18"/> IT & Operations Assistant | MAIOR Health Clinic
 *Supporting healthcare operations through technology*
 
 - Digitized **500+ patient records**, improving data accessibility and clinic efficiency
@@ -48,7 +49,7 @@ Right now, I'm focused on:
 - Helped coordinate large-scale health events with approximately **1,000 attendees**
 - Streamlined operational processes using technology solutions
 
-### 🛠️ Head of Technology | Solace & Stone (JA Company Program)
+### <img src="https://img.icons8.com/ios/20/000000/settings.png" alt="settings" width="18"/> Head of Technology | Solace & Stone (JA Company Program)
 *Building and launching a real company from scratch*
 
 - Designed and launched the **company website** using HTML, CSS, and JavaScript
@@ -58,9 +59,9 @@ Right now, I'm focused on:
 
 ---
 
-## 🧪 Projects
+## <img src="https://img.icons8.com/ios/24/000000/test-tube.png" alt="test tube" width="22"/> Projects
 
-### 💎 Solace & Stone Website
+### <img src="https://img.icons8.com/ios/20/000000/diamond.png" alt="diamond" width="18"/> Solace & Stone Website
 **Tech Stack:** HTML • CSS • JavaScript
 
 A clean, responsive e-commerce website built for a real company. Features a modern product showcase, smooth navigation, and reusable UI components. This site helped drive actual sales and customer engagement.
@@ -69,7 +70,7 @@ A clean, responsive e-commerce website built for a real company. Features a mode
 
 ---
 
-### 🎮 Python Game Projects (PixelPAD)
+### <img src="https://img.icons8.com/ios/20/000000/controller.png" alt="game controller" width="18"/> Python Game Projects (PixelPAD)
 **Tech Stack:** Python • Pygame • OOP
 
 A collection of educational games built to teach programming fundamentals. Includes Snake, Pong, Maze Runner, and Space Invaders clones. These projects were used to help over 20 students learn coding concepts through hands-on play.
@@ -78,12 +79,12 @@ A collection of educational games built to teach programming fundamentals. Inclu
 
 ---
 
-### 🌐 Personal Portfolio Website
+### <img src="https://img.icons8.com/ios/20/000000/internet.png" alt="web" width="18"/> Personal Portfolio Website
 **Tech Stack:** React • JavaScript • HTML • CSS
 
 A modern, single-page portfolio showcasing my work and experience. Built with React for speed and interactivity, featuring dynamic project cards and smooth navigation.
 
-▶️ **[Watch Demo Video](https://drive.google.com/file/d/1CFbnclFxHLbSM4ulKFdHrwCFEZ3gissh/view?usp=share_link)**
+<img src="https://img.icons8.com/ios/16/000000/play-button-circled.png" alt="play" width="14"/> **[Watch Demo Video](https://drive.google.com/file/d/1CFbnclFxHLbSM4ulKFdHrwCFEZ3gissh/view?usp=share_link)**
 
 **What I learned:** React component architecture, state management, modern web development workflows
 
@@ -91,7 +92,7 @@ A modern, single-page portfolio showcasing my work and experience. Built with Re
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## <img src="https://img.icons8.com/ios/24/000000/maintenance.png" alt="tools" width="22"/> Tech Stack
 
 </div>
 
@@ -119,7 +120,7 @@ A modern, single-page portfolio showcasing my work and experience. Built with Re
 
 <div align="center">
 
-## 📫 Let's Connect
+## <img src="https://img.icons8.com/ios/24/000000/email.png" alt="email" width="22"/> Let's Connect
 
 I'm actively looking for **software engineering internships**, **data science roles**, and **fintech opportunities** in Toronto or remote.
 
@@ -130,6 +131,6 @@ If you're building something cool or have an opportunity, I'd love to chat!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-### ⭐ Thanks for stopping by! ⭐
+### <img src="https://img.icons8.com/ios/20/000000/star.png" alt="star" width="18"/> Thanks for stopping by! <img src="https://img.icons8.com/ios/20/000000/star.png" alt="star" width="18"/>
 
 </div>
