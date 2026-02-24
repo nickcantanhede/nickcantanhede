@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Nicolas Cantanhede — welcome to my GitHub!
+# Hey, I'm Nicolas Cantanhede and welcome to my GitHub!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Specialist;Economics+Major+%40+UofT" alt="Typing SVG" />
 
