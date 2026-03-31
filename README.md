@@ -17,16 +17,6 @@ First-year CS Specialist and Economics student at UofT with a 4.0 GPA. I build f
 
 ---
 
-## Projects
-
-**NexaCare** — AI-powered personal health management app built at Hack the Globe 2026. Owned the AI layer using the Anthropic Claude API (TypeScript). Post-hackathon, developed a clinic discount marketplace model for the Canadian market.
-
-**Roommate App** *(in progress)* — Cross-platform household management app (chore splitting, shared expenses, calendar). Stack: React Native/Expo, Node.js/Express, PostgreSQL via Supabase.
-
-**Quantyze** — Limit order book simulator in pure Python with a BST-based order book, FIFO price levels, and price-time priority matching engine. Validated against the LOBSTER dataset (AMZN, ~57K events).
-
----
-
 ## Skills
 
 **Languages**
