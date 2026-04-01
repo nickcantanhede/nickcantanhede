@@ -13,7 +13,7 @@
 
 ## About
 
-First-year CS Specialist and Economics student at UofT with a 4.0 GPA. I build full-stack applications and am interested in the intersection of software engineering, data, and finance. Currently seeking **Fall 2026 co-op or Summer 2027 internship** roles in SWE, fintech, or data science.
+First-year CS Specialist and Economics student at UofT with a 4.0 GPA. I enjoying building full-stack applications and am particularly interested in the intersection of software engineering, data, and finance, which I tend to find fascinanting! Currently seeking **Fall 2026 co-op or Summer 2027 internship** roles in SWE, fintech, or data science.
 
 ---
 
