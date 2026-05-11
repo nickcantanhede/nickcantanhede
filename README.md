@@ -15,10 +15,13 @@
       <img align="right" src="./assets/artificial-intelligence.svg" width="285" alt="Artificial intelligence illustration">
       <h2>About</h2>
       <p>
-        I am a CS Specialist and Economics student at UofT with a 4.0 GPA. I am particularly interested in using software in applications of finance and healthcare.
+        Hello, I'm Nick. 👋
       </p>
       <p>
-        I like working across the stack, from product-facing interfaces to databases, and machine learning workflows. I am currently seeking <strong>Fall 2026 co-op</strong> or <strong>Summer 2027 internship</strong> roles in SWE, fintech, or data science.
+        I am a Computer Science Specialist and Economics student at UofT with a 4.0 GPA. I am particularly interested in using software in applications of finance and healthcare.
+      </p>
+      <p>
+        I like working more in the backend - databases, APIs, and machine learning workflows. Nevertheless, I also find it important to understand production-facing systems. I am currently seeking <strong>Fall 2026 co-op</strong> or <strong>Summer 2027 internship</strong> roles in SWE, fintech, or data science.
       </p>
       <br clear="right">
     </td>
