@@ -1,19 +1,27 @@
-<div align="center">
-
-# Nicolas Cantanhede
-
-**Computer Science Specialist & Economics Student @ University of Toronto**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-cantanhede)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmcantanhede@gmail.com)
-
-</div>
-
----
-
-## About
-
-First-year CS Specialist and Economics student at UofT with a 4.0 GPA. I enjoying building full-stack applications and I am particularly interested in the intersection of software engineering, data, and finance, which I tend to find fascinanting! Currently seeking **Fall 2026 co-op or Summer 2027 internship** roles in SWE, fintech, or data science.
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <h1>Nicolas Cantanhede</h1>
+      <p><strong>Computer Science Specialist & Economics Student @ University of Toronto</strong></p>
+      <p>
+        <a href="https://linkedin.com/in/nicolas-cantanhede">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="mailto:nicolasmcantanhede@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+      </p>
+      <p>
+        First-year CS Specialist and Economics student at UofT with a 4.0 GPA. I enjoy building full-stack applications and I am particularly interested in the intersection of software engineering, data, and finance. Currently seeking <strong>Fall 2026 co-op or Summer 2027 internship</strong> roles in SWE, fintech, or data science.
+      </p>
+    </td>
+    <td width="42%" align="center">
+      <img src="./assets/artificial-intelligence.svg" width="330" alt="Artificial intelligence illustration">
+      <br>
+      <sub>Illustration by <a href="https://storyset.com/artificial-intelligence">Storyset</a></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
