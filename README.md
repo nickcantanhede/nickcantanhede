@@ -68,6 +68,8 @@
 
 ## GitHub Activity
 
+![GitHub contribution calendar](https://ghchart.rshah.org/nickcantanhede)
+
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nickcantanhede&theme=github-compact&hide_border=true&area=true&color=61DAFB&line=61DAFB&point=FFFFFF)
 
 ![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickcantanhede&theme=github_dark)
