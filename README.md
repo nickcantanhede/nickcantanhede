@@ -2,7 +2,7 @@
 
 # Nicolas Cantanhede
 
-**Computer Science & Economics Student @ University of Toronto**
+**Computer Science Specialist & Economics Student @ University of Toronto**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-cantanhede)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmcantanhede@gmail.com)
@@ -12,15 +12,12 @@
 <table>
   <tr>
     <td width="57%" valign="middle">
-      <h2>A Little About Me</h2>
+      <h2>About</h2>
       <p>
-        I am a Computer Science and Economics student at the University of Toronto.
+        I am a CS Specialist and Economics student at UofT with a 4.0 GPA. I enjoy building software that makes complicated systems easier to navigate, especially where engineering, data, and finance meet.
       </p>
       <p>
-        Quite frankly, I believe code is the least interesting thing about software. To me, software should not be treated as just code, in the same way poetry is not just a collection of words. Poets take the messy, overwhelming texture of human experience and distill it into something resonant.
-      </p>
-      <p>
-        Developers, at their best, can do something similar: take processes that are slow, confusing, or exclusionary, and turn them into systems that people can actually navigate.
+        I like working across the stack, from product-facing interfaces to databases, notebooks, and machine learning workflows. I am currently seeking <strong>Fall 2026 co-op</strong> or <strong>Summer 2027 internship</strong> roles in SWE, fintech, or data science.
       </p>
     </td>
     <td width="43%" align="center" valign="middle">
@@ -33,32 +30,24 @@
 
 ---
 
-## What I Am Drawn To
+## Current Focus
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Finance</h3>
-      <p>Tools that help people make clearer decisions in systems that often feel opaque.</p>
+      <h3>Software Engineering</h3>
+      <p>Full-stack applications, thoughtful UI, APIs, and reliable developer workflows.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Healthcare</h3>
-      <p>Software that can make essential services easier to access, understand, and trust.</p>
+      <h3>Data & ML</h3>
+      <p>Python, notebooks, model evaluation, and practical machine learning systems.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Education</h3>
-      <p>Technology that democratizes knowledge and helps people build confidence.</p>
+      <h3>Finance & Economics</h3>
+      <p>Fintech, markets, decision-making tools, and data-driven analysis.</p>
     </td>
   </tr>
 </table>
-
----
-
-## How I Work
-
-I credit a lot of my working style to teaching. Standing in front of students who do not understand something forces you to actually understand it yourself. I had to explain technical ideas clearly, get myself into their mindset, and help others build confidence with code. If anything, I was the one learning the most.
-
-I am early in my career and I know I still have a lot to figure out, but I am drawn to work that makes complicated systems feel more human.
 
 ---
 
@@ -84,6 +73,6 @@ I am early in my career and I know I still have a lot to figure out, but I am dr
 
 ## Contact
 
-I am always open to words of wisdom, opportunities, interesting ideas, or a good conversation about software, finance, healthcare, or education.
+Open to internship opportunities, interesting projects, words of wisdom, or a good conversation about fintech, data, or software.
 
-Reach me at **nicolasmcantanhede@gmail.com** or send me a message on [LinkedIn](https://linkedin.com/in/nicolas-cantanhede).
+Reach me at **nicolasmcantanhede@gmail.com** or on [LinkedIn](https://linkedin.com/in/nicolas-cantanhede).
