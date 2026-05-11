@@ -23,7 +23,6 @@
     <td width="43%" align="center" valign="middle">
       <img src="./assets/artificial-intelligence.svg" width="310" alt="Artificial intelligence illustration">
       <br>
-      <sub>Illustration by <a href="https://storyset.com/artificial-intelligence">Storyset</a></sub>
     </td>
   </tr>
 </table>
@@ -40,7 +39,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>Data & ML</h3>
-      <p>Python, notebooks, model evaluation, and practical machine learning systems.</p>
+      <p>Python, model evaluation, and machine learning systems.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Finance & Economics</h3>
