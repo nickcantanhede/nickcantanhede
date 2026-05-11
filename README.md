@@ -11,8 +11,7 @@
 
 <table>
   <tr>
-    <td valign="middle">
-      <img align="right" src="./assets/artificial-intelligence.svg" width="310" alt="Artificial intelligence illustration">
+    <td width="57%" valign="middle">
       <h2>About</h2>
       <p>
         I am a CS Specialist and Economics student at UofT with a 4.0 GPA. I am particularly interested in using software in applications of finance and healthcare.
@@ -20,7 +19,10 @@
       <p>
         I like working across the stack, from product-facing interfaces to databases, and machine learning workflows. I am currently seeking <strong>Fall 2026 co-op</strong> or <strong>Summer 2027 internship</strong> roles in SWE, fintech, or data science.
       </p>
-      <br clear="right">
+    </td>
+    <td width="4%" valign="middle"></td>
+    <td width="39%" align="center" valign="middle">
+      <img src="./assets/artificial-intelligence.svg" width="285" alt="Artificial intelligence illustration">
     </td>
   </tr>
 </table>
