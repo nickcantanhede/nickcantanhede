@@ -9,48 +9,28 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="57%" valign="middle">
-      <h2>About</h2>
-      <p>
-        I am a CS Specialist and Economics student at UofT with a 4.0 GPA. I enjoy building software that makes complicated systems easier to navigate, especially where engineering, data, and finance meet.
-      </p>
-      <p>
-        I like working across the stack, from product-facing interfaces to databases, notebooks, and machine learning workflows. I am currently seeking <strong>Fall 2026 co-op</strong> or <strong>Summer 2027 internship</strong> roles in SWE, fintech, or data science.
-      </p>
-    </td>
-    <td width="43%" align="center" valign="middle">
-      <img src="./assets/artificial-intelligence.svg" width="310" alt="Artificial intelligence illustration">
-      <br>
-    </td>
-  </tr>
-</table>
+<img align="right" src="./assets/artificial-intelligence.svg" width="310" alt="Artificial intelligence illustration">
 
----
+### About
 
-## Current Focus
+I am a CS Specialist and Economics student at UofT with a 4.0 GPA. I enjoy building software that makes complicated systems easier to navigate, especially where engineering, data, and finance meet.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Software Engineering</h3>
-      <p>Full-stack applications, thoughtful UI, APIs, and reliable developer workflows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Data & ML</h3>
-      <p>Python, model evaluation, and machine learning systems.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Finance & Economics</h3>
-      <p>Fintech, markets, decision-making tools, and data-driven analysis.</p>
-    </td>
-  </tr>
-</table>
+I like working across the stack, from product-facing interfaces to databases, notebooks, and machine learning workflows. I am currently seeking **Fall 2026 co-op** or **Summer 2027 internship** roles in SWE, fintech, or data science.
 
----
+<br clear="right">
 
-## Skills
+### Current Focus
+
+**Software Engineering**<br>
+Full-stack applications, thoughtful UI, APIs, and reliable developer workflows.
+
+**Data & ML**<br>
+Python, model evaluation, and machine learning systems.
+
+**Finance & Economics**<br>
+Fintech, markets, decision-making tools, and data-driven analysis.
+
+### Skills
 
 **Languages**
 
@@ -68,9 +48,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## Contact
+### Contact
 
 Open to internship opportunities, interesting projects, words of wisdom, or a good conversation about fintech, data, or software.
 
