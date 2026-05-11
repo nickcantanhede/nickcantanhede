@@ -1,24 +1,50 @@
+<div align="center">
+
+# Nicolas Cantanhede
+
+**Computer Science Specialist & Economics Student @ University of Toronto**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-cantanhede)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmcantanhede@gmail.com)
+
+</div>
+
 <table>
   <tr>
-    <td width="58%" valign="middle">
-      <h1>Nicolas Cantanhede</h1>
-      <p><strong>Computer Science Specialist & Economics Student @ University of Toronto</strong></p>
+    <td width="57%" valign="middle">
+      <h2>About</h2>
       <p>
-        <a href="https://linkedin.com/in/nicolas-cantanhede">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="mailto:nicolasmcantanhede@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-        </a>
+        I am a CS Specialist and Economics student at UofT with a 4.0 GPA, focused on building useful software at the intersection of engineering, data, and finance.
       </p>
       <p>
-        First-year CS Specialist and Economics student at UofT with a 4.0 GPA. I enjoy building full-stack applications and I am particularly interested in the intersection of software engineering, data, and finance. Currently seeking <strong>Fall 2026 co-op or Summer 2027 internship</strong> roles in SWE, fintech, or data science.
+        I enjoy working across the stack, from product-facing interfaces to databases, notebooks, and machine learning workflows. I am currently seeking <strong>Fall 2026 co-op</strong> or <strong>Summer 2027 internship</strong> roles in SWE, fintech, or data science.
       </p>
     </td>
-    <td width="42%" align="center">
-      <img src="./assets/artificial-intelligence.svg" width="330" alt="Artificial intelligence illustration">
+    <td width="43%" align="center" valign="middle">
+      <img src="./assets/artificial-intelligence.svg" width="310" alt="Artificial intelligence illustration">
       <br>
       <sub>Illustration by <a href="https://storyset.com/artificial-intelligence">Storyset</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Current Focus
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Software Engineering</h3>
+      <p>Full-stack applications, clean UI, APIs, and reliable developer workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Data & ML</h3>
+      <p>Python, notebooks, model evaluation, and practical machine learning systems.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Finance & Economics</h3>
+      <p>Fintech, markets, decision-making tools, and data-driven analysis.</p>
     </td>
   </tr>
 </table>
@@ -47,5 +73,6 @@
 
 ## Contact
 
-Open to internship opportunities, interesting projects, or just a good conversation about fintech or software.
+Open to internship opportunities, interesting projects, or a good conversation about fintech, data, or software.
+
 Reach me at **nicolasmcantanhede@gmail.com** or on [LinkedIn](https://linkedin.com/in/nicolas-cantanhede).
